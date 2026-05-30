@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvncrypt",
+        "uuid": 573301,
+        "checksum": "rbp9n"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
